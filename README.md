@@ -2,7 +2,7 @@
 
 This project was my Graduation Thesis, which I presented in 2021 at the Polytechnic School of the University of São Paulo (Poli-USP) to attain my B.Eng. degree in Mechatronics Engineering.
 
-- [Graduation Thesis](/Thesis.pdf)
+- [Graduation Thesis](/Thesis.pdf) ([Compressed Version](/Thesis_compressed.pdf))
 - [Article version](/Article.pdf)
 - [Presentation Video](https://youtu.be/UBtx8c31BuY) [in Portuguese]
 
