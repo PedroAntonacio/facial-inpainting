@@ -4,7 +4,7 @@ This project was my Graduation Thesis, which I presented in 2021 at the Polytech
 
 - [Graduation Thesis](/Thesis.pdf) ([Compressed Version](/Thesis_compressed.pdf))
 - [Article version](/Article.pdf)
-- [Presentation Video](https://youtu.be/UBtx8c31BuY) [in Portuguese]
+- [Presentation Video](https://youtu.be/UBtx8c31BuY) [Captions/Subtitles available in English and Portuguese]
 
 ## Run
 For detailed instructions on training and testing the DeepFillv2 model, please refer to the original repository at: https://github.com/JiahuiYu/generative_inpainting
