@@ -2,7 +2,7 @@
 
 This project was my Graduation Thesis, which I presented in 2021 at the Polytechnic School of the University of São Paulo (Poli-USP) to attain my B.Eng. degree in Mechatronics Engineering.
 
-- [Graduation Thesis](/Thesis.pdf) ([Compressed Version](/Thesis_compressed.pdf))
+- [Graduation Thesis](/Thesis.pdf) ([Compressed Version](/Thesis-compressed.pdf))
 - [Article version](/Article.pdf)
 - [Presentation Video](https://youtu.be/UBtx8c31BuY) [Captions/Subtitles available in English and Portuguese]
 
@@ -54,11 +54,6 @@ This repository:
     publisher={GitHub},
     howpublished = {\url{https://github.com/PedroAntonacio/facial-inpainting}}
 }
-```
-
-Graduation Thesis:
-```
-Soon to be added
 ```
 
 ## License
